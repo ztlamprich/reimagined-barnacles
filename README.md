@@ -1,4 +1,3 @@
 # reimagined-barnacles
-Random things
 
-BookBot - BookBot is my first project!
+BookBot is my first project!
